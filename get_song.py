@@ -21,4 +21,4 @@ def main(query):
 	print "\nAlbum:", album
 
 
-main(str(raw_input("Enter the lyrics: \n\n")))
+main(str(raw_input("\nEnter the lyrics: \n\n")))
