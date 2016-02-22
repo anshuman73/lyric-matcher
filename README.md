@@ -1,9 +1,9 @@
 #Lyric Matcher
 
 So, you're a programmer ?
-And you love the terminal. You do all the work there, don't really have time for going to the browser to find the name of the song you're listening to ?
+And you love the terminal. You do all the work there and don't really have time for going to the browser to find the name of the song you're listening to ?
 
-No issues. Just run get_song.py and type in the lyrics and it'll find the song name for you !
+No issues. Just run `get_song.py` and type in the lyrics and it'll find the song name for you !
 
 I would suggest you type in the lyrics you find are unique to the song. A normal length is fine. Too short will yield too many results and thus result in an inaccurate answer.
 
