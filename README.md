@@ -14,7 +14,6 @@ Search result wasn't great ? Think you know the artist or album ? Throw in those
 1. Add the option to list more than the top result.
 Do this by allowing the user to specify the number of results as arguments
 
-2. Improve Accuracy
 
 Example - 
 
